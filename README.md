@@ -1,0 +1,2 @@
+# Question Number Combinations
+The notebook **Question Assignment** has been created to assign question numbers to students from a given number of questions. For instance, there could be 10 questions in total and 5 of those need to be assigned to each student. For this case, the concept of combinations has been used to generate a list of all possible combinations of those question numbers. Then, the lists are evenly assigned to each student.
